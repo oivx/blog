@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
-subtitle:
-description:
-author: Elvis Liu
+title: 加油，2018！
+subtitle: 
+description: 
+author: 刘夫文
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -75,10 +75,10 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: ../images/lfw.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "加油, 2018"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -89,10 +89,10 @@ rss:
 #since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon:   
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
