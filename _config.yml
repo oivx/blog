@@ -2,6 +2,7 @@
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
+
 # Site
 title: NexT
 subtitle:
@@ -13,8 +14,8 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:'http://liufuwen.com'
-baseurl:'/blog'
+url: http://liufuwen.com
+baseurl: /blog
 permalink: pretty
 
 # Pagination
