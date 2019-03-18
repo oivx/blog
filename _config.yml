@@ -308,14 +308,14 @@ auto_excerpt:
 
 # Post meta display settings
 post_meta:
-  item_text: true
+  item_text: false
   created_at: false
   updated_at: false
   categories: true
 
 # Post wordcount display settings
 post_wordcount:
-  item_text: true
+  item_text: false
   wordcount: false
   min2read: false
   separated_meta: true
