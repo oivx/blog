@@ -28,7 +28,7 @@ powershell使用面向对象的方法，传输的是对象，可以应用.net fr
 ## Chrome插件
 利用html和js，简单的配置，就可以制作插件。
 
-### Bash脚本
+## Bash脚本
 linux操作系统级脚本
 
 ## 小结
