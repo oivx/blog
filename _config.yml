@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 加油，2018！
+title: 努力！奋斗！
 subtitle: 
 description: 
 author: 刘夫文
@@ -78,7 +78,7 @@ plugins:
 favicon: ../images/lfw.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "加油, 2018"
+keywords: "努力！奋斗！"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
